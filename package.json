@@ -1,0 +1,16 @@
+{
+  "name": "mawu-creatives-website",
+  "version": "1.0.0",
+  "description": "Premium conversion-focused creative agency website for Mawu Creatives (Kitwe, Zambia).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "author": "Mawu Creatives",
+  "license": "ISC"
+}
+
